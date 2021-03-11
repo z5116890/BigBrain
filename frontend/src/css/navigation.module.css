@@ -1,0 +1,19 @@
+.linkText{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: white;
+}
+.navBarContainer{
+    display: flex;
+    justify-content: flex-end;
+    width: 700px !important;
+}
+.menuContainer{
+    width: 100%;
+}
+.menuButton{
+    position: fixed !important;
+    right: 15px;
+    top: 10px;
+    color: white !important;
+}

@@ -1,0 +1,21 @@
+.login_container{
+    display: flex;
+    margin-top: 64px;
+    align-items: center;
+    flex-direction: column;
+}
+.login_form_container{
+    width: 100%;
+    margin-top: 8px;
+}
+.login_text_container{
+    display: flex;
+    flex-direction: column;
+}
+.login_button{
+    width: 100%;
+    display: inherit;
+    align-items: inherit;
+    justify-content: inherit;
+    margin: 24px 0px 16px;
+}

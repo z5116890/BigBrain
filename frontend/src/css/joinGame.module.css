@@ -1,0 +1,23 @@
+.join_container{
+    display: flex;
+    margin-top: 64px;
+    align-items: center;
+    flex-direction: column;
+}
+.join_form_container{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-top: 8px;
+}
+.join_text_container{
+    display: flex;
+    flex-direction: column;
+}
+.join_button{
+    width: 100%;
+    display: inherit;
+    align-items: inherit;
+    justify-content: inherit;
+    margin: 24px 0px 16px;
+}

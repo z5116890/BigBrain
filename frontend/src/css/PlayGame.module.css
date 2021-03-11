@@ -1,0 +1,17 @@
+.play_container{
+    display: flex;
+    margin-top: 64px;
+    align-items: center;
+    flex-direction: column;
+}
+.answer_container{
+    margin-bottom: 2%;
+    text-align: center;
+}
+.button{
+    width: 100%;
+    height: 100%;
+}
+.messageContainer{
+    text-align: center;
+}

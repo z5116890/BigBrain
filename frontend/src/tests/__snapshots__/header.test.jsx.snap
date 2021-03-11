@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header renders when screen size <= 700 1`] = `<header />`;
+
+exports[`Header renders when screen size > 700 1`] = `<header />`;
+
+exports[`Header renders with no props 1`] = `<header />`;

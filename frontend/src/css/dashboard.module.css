@@ -1,0 +1,4 @@
+.quizSessionContainer {
+    display: flex;
+    justify-content: space-between;
+}

@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CorrectAnswer renders with props 1`] = `
+<div
+  className="MuiPaper-root MuiCard-root makeStyles-root-23 MuiPaper-elevation1 MuiPaper-rounded"
+  id="answer"
+>
+  <h2
+    className="MuiTypography-root makeStyles-text-24 MuiTypography-h5"
+    data-test="answer"
+  >
+    yes
+    <svg
+      aria-hidden={true}
+      className="MuiSvgIcon-root makeStyles-tick-21"
+      focusable="false"
+      id="tick"
+      viewBox="0 0 24 24"
+    >
+      <path
+        d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"
+      />
+    </svg>
+  </h2>
+</div>
+`;

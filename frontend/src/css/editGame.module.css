@@ -1,0 +1,176 @@
+.edit_container{
+    display: flex;
+    margin-top: 25px;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+}
+.edit_form_container{
+    width: 100%;
+    margin-top: 8px;
+}
+.edit_text_container{
+    display: flex;
+    flex-direction: column;
+}
+.edit_button{
+    width: 100%;
+    margin-bottom: 20px !important;
+}
+.add_button{
+    margin: 5%;
+}
+
+@media (max-width: 700px) {
+    .main_container{
+        display:flex;
+        flex-direction: column;
+    }
+    .side_container{
+        display: flex;
+        align-items: center;
+        box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 4px 0px;
+        background: rgb(255, 255, 255);
+        width: 100%;
+        overflow-x: auto;
+    }
+    .questions_list_container{
+        display: flex;
+        align-items: center;
+    }
+    .media_container{
+        width: 100%;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .img_vid_container{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        align-items: center;
+    }
+    .points_container{
+        flex-direction: column !important;
+        height: 230px;
+    }
+    .inputContainer{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+    .saveButton{
+        width: 100%;
+    }
+    .vid_container{
+        width: 100%;
+    }
+    .dropDown{
+        text-align: center;
+        top: 14px;
+        right: 200px;
+        border: 1px solid;
+        padding: 8px;
+        z-index: 1;
+        background-color: springgreen;
+    }
+}
+@media (min-width: 701px) {
+    .main_container{
+        display:flex;
+    }
+    .side_container{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 4px 0px;
+        background: rgb(255, 255, 255);
+        width: 20%;
+        max-width: 250px;
+        min-height: 100%;
+        max-height: 110vh;
+        overflow-y: auto;
+    }
+    .questions_list_container{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 95%;
+    }
+    .media_container{
+        width: 100%;
+        text-align: center;
+        height: 200px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .img_vid_container{
+        display: flex;
+        width: 100%;
+        justify-content: space-between;
+        align-items: flex-end;
+    }
+    .points_container{
+        flex-direction: row;
+    }
+    .inputContainer{
+        width: 100%;
+    }
+    .saveButton{
+        top: 14px;
+        right: 112px;
+        width: 85px;
+        display: inherit !important;
+        position: absolute !important;
+        align-items: inherit !important;
+        justify-content: inherit !important;
+    }
+    .vid_container{
+        width: 50%;
+    }
+    .dropDown{
+        width: 7%;
+        top: 14px;
+        right: 200px;
+        border: 1px solid;
+        padding: 8px;
+        z-index: 1;
+        position: absolute;
+        background-color: springgreen;
+    }
+}
+
+
+.question_type_container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+.edit_center{
+    display: flex;
+    justify-content: center;
+}
+.answer_container{
+    margin-bottom: 2%;
+}
+.img_container{
+    width: 35%;
+    height: 200px;
+    margin: 1%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+}
+.img_box{
+    width: 150px;
+    height: 150px;
+    border: 2px grey dashed;
+    margin-bottom: 3%;
+}
+.edit_game_title{
+    text-align: center;
+}
