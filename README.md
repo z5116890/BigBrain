@@ -1,3 +1,9 @@
+<img width="1206" alt="Screen Shot 2021-03-12 at 3 56 36 am" src="https://user-images.githubusercontent.com/27755962/110824212-f5a12600-82e6-11eb-94cc-36cb5e2f1e47.png">
+
+<img width="1126" alt="Screen Shot 2021-03-12 at 3 57 42 am" src="https://user-images.githubusercontent.com/27755962/110824487-39942b00-82e7-11eb-9eef-04b280e34757.png">
+
+<img width="1143" alt="Screen Shot 2021-03-12 at 3 57 56 am" src="https://user-images.githubusercontent.com/27755962/110824508-3dc04880-82e7-11eb-89c4-4de13d30ee58.png">
+
 
 
 # ReactJS: BigBrain
